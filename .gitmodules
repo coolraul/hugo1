@@ -1,7 +1,7 @@
 [submodule "quickstart/themes/ananke"]
 	path = quickstart/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "quickstart/public."]
-	path = quickstart/public.
+[submodule "quickstart/public"]
+	path = quickstart/public
 	url = https://github.com/coolraul/coolraul.github.io.git
 	branch = master
